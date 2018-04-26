@@ -858,13 +858,13 @@
 #user-rollover.id-30619682 .badge-box > i.bdg,
 .id-30619682 > .badge-box > i.bdg
 {
-    background-image:    url("https://image.prntscr.com/image/L6YS1zFSQpG1lkvhCNP0XA.gif");
+    background-image:    url("https://cdn.discordapp.com/attachments/321745205571092480/335397393342398464/pcx-clan.png");
 }
         /*# [Percyvall] #*/
 #user-rollover.id-29319764 .badge-box > i.bdg,
 .id-29319764 > .badge-box > i.bdg
 {
-	background-image:   url("https://image.prntscr.com/image/VQWEV9GfT4K1mpg2ykFWvg.gif");
+	background-image:   url("https://cdn.discordapp.com/attachments/321745205571092480/335397393342398464/pcx-clan.png");
 }
 
 @keyframes rainbow {
